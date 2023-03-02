@@ -1,4 +1,4 @@
-#duas listas uma com valores pares e outra com valores impares
+#três listas uma com valores pares, outra com valores impares e a terceira com as duas listas
 A=[]
 B=[]
 C=[]
