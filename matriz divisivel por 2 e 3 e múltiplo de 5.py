@@ -1,4 +1,4 @@
-
+#duas listas: uma com valores diviseis por 2 e 3 e uma com valores múltiplos de 5
 A=[]
 B=[]
 C=[]
