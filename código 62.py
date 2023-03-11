@@ -1,0 +1,12 @@
+i=1
+soma=0
+while i<=15:
+    isuporte=1
+    calculo_fatorial=1
+    n=int(input("digite um valor: "))
+    while isuporte<=n:
+        calculo_fatorial*=isuporte
+        isuporte+=1
+    soma+=calculo_fatorial
+    i+=1
+print (f"Soma total = {soma}")
